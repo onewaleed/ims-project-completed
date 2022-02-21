@@ -1,0 +1,23 @@
+As a end user, I want to add a customer to the system, so that they can be on our database of customers. 
+As a end user, I want to be able to view all customers so that I can see how many customers we have in total. 
+As a end user, I want to be able to update customers details in the system, so that I can have updated contact information.
+As a end user, I want to be able to delete customer details, so that customers who request it can not be contacted anymore. 
+As a end user, I want to be able to add an item to the system, so that I can add new items to my item list.
+As a end user, I want to be able to view all items in the system, so I can get a quick overview of my items. 
+As a end user, I want to be able to update an item in the system, so I can see what it is exactly. 
+As a end user, I want to be able to delete a item in the system, so I do not accidently sell it. 
+As a end user, I want to be able to create a order in the system, so I can sell my products. 
+As a end user, I want to be able to view all of my orders in the system, so I can view all my order I need to fulfil. 
+As a end user, I want to be able to delete an order in the system, so I do not accidently fufuill a cancelled order. 
+As a end user, I want to be able to be able to add an item to the order, so I can ammend them when needed.  
+As a end user, I want to be able to calculate a cost for an order, so that I can give the customer an idea of cost.
+As a end user, I want to be able to delete an item from an order, so I can amend and send out correct orders.
+
+
+Testing
+As a back end developer, I want to ensure that my application is fully functional, so my end user can use it with no issues. 
+As a back end developer, I want to run unit and intergration tests, so i can validate the application. 
+As a back end developer, I want to create a risk assesment which outlines the issues and risks fasced during the project time frams, so I can cover all possible outcomes. 
+
+Presentation 
+
